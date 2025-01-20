@@ -16,10 +16,10 @@
    ```html
    <script src="js/script.js"></script>
    ```
-2. Ensure "use strict" is at the top of your script.js file.
+2. Ensure "use strict" is at the top of your `script.js` file.
 
 3. Write a JavaScript code that uses single-line comments to explain what each
    line of the code does.
 
 4. Perform a simple calculation and display the result
-   using console.log.
+   using `console.log`.
